@@ -27,7 +27,7 @@ The application is automatically "completed" upon the end of the cruise.
  
 
 ### Database Visualisation 
-![img.png](diagramDB.png)
+![database.png](diagramDB.png)
 <br><br><br>
 
 ## Not Authorized User Functional
@@ -50,3 +50,6 @@ The application is automatically "completed" upon the end of the cruise.
 - Edit Cruise
 - Delete Cruise
 - Confirm Client's Order
+- 
+### The Course was succesfully passed with certification.
+![certificate.png](certificate.png)
